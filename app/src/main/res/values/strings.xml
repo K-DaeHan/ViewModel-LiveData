@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewModelDemo</string>
+    <string name="convert_string">Convert</string>
+    <string name="mainfragment_string">MainFragment</string>
+</resources>
